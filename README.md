@@ -4,4 +4,4 @@
 ## 📌 GIT
 
 
-- [GitHub Fork로 협업하기](../Git)
+- [GitHub Fork로 협업하기](./Git)
