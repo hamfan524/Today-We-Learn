@@ -4,4 +4,5 @@
 ## 📌 GIT
 
 
-- [GitHub Fork로 협업하기](./Git)
+- [GitHub Fork 협업 - 팀장 가이드](./Git/깃-협업-팀장.md)
+- [GitHub Fork 협업 - 팀원 가이드](./Git/깃-협업-팀원.md)
