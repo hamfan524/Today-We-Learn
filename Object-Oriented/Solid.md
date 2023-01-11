@@ -2,11 +2,11 @@
 >프로그래머가 시간이 지나도 유지 보수와 확장이 쉬운 소프트웨어를 만드는 것에 적용하는 5가지 원칙
 
 ## ✨종류
-1. [SRP](#💻srp(single-responsibility-principle)💻)
-2. [OCP](#💻ocp(open-close-principle)💻)
-3. [LSP](#💻lsp(liskov-substitution-principle)💻)
-4. [ISP](#💻isp(interface-segregation-principle)💻)
-5. [DIP](#💻dip(dependency-inversion-principle)💻)
+1. [SRP](#srpsingle-responsibility-principle)
+2. [OCP](#ocpopen-close-principle)
+3. [LSP](#lspliskov-substitution-principle)
+4. [ISP](#ispinterface-segregation-principle)
+5. [DIP](#dipdependency-inversion-principle)
 
 ## 💻SRP(Single-Responsibility Principle)💻
 >단일 책임 원칙 - 소프트웨어 요소(클래스, 모듈, 함수 등)은 단 하나의 책임만을 가져야 한다.<br>
@@ -158,7 +158,7 @@ struct 육각형: 도형{
 즉 어떤 클래스가 다른 클래스에 종속 될 때 가능한 **최소한의 기능**만을 사용해야 한다는 뜻이다.
 
 ### 📌 예제 
-ISP는 비슷한 목표를 지닌 [SRP(단일 책임 원칙)](#💻srp(single-responsibility-principle)💻)와 비교할 수 있는데<br>
+ISP는 비슷한 목표를 지닌 [SRP(단일 책임 원칙)](#srpsingle-responsibility-principle)와 비교할 수 있는데<br>
 SRP에 경우 사용자의 요구사항이나 취향에 따라 **하나의 클래스**를<br> 하나의 책임(역할)만 행하는 **다수의 클래스**로 분할 하는 것이라면
 ![isp예제](https://user-images.githubusercontent.com/37105602/211834444-bce35732-1163-4e1b-9021-4c52e00f95bc.png)
 
@@ -187,7 +187,7 @@ DIP 적용 전 그림에서는 아메,라떼 등 클래스들이 그 무엇에�
 
 또한 직장인도 변화하기 쉬운 구체적인 것을 의존하던 상태에서 추상화된 것을 의존함으로써<br>
 변화의 영향을 받지 않게 된 의존 역전이 발생하여 관계가 매우 튼튼해졌다.
->DIP 의존성 주입은 결국 OCP(개방폐쇄의 원칙)와도 연결되어 있다.
+>DIP 의존성 주입은 결국 [OCP(개방폐쇄의 원칙)](#ocpopen-close-principle)와도 연결되어 있다.
 
 ## ✨마무리
 객체지향 설계 원칙들은 결국 추상화를 어떻게 이용하여 설계할지를 5가지로 나눈 것과 같다고 볼 수 있다.
