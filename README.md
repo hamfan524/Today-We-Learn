@@ -11,4 +11,4 @@
 ## 📌 Object-Oriented
 
 
--[Solid 원칙](./Object-Oriented/Solid.md)
+- [Solid 원칙](./Object-Oriented/Solid.md)
