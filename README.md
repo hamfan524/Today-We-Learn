@@ -6,7 +6,7 @@
 
 - [GitHub Fork 협업 - 팀장 가이드](./Git/깃-협업-팀장.md)
 - [GitHub Fork 협업 - 팀원 가이드](./Git/깃-협업-팀원.md)
-
+- [Git Commit Convention](./Git/커밋컨벤션.md)
 
 ## 📌 Object-Oriented
 
