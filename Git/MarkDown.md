@@ -147,13 +147,16 @@ _이탤릭_
 
 > 상대경로로 지정도 가능하며, 참조 링크도 사용 가능합니다.
 ```
-[naver]: https://www.naver.com
-[네이버](naver)
+[네이버][naver]
 [깃 커밋 컨벤션 가이드](./커밋컨벤션.md)
-```
+
 [naver]: https://www.naver.com
-[네이버](naver)
+```
+
+[네이버][naver]  
 [깃_커밋_컨벤션_가이드](./커밋컨벤션.md)
+
+[naver]: https://www.naver.com
 ***
 
 > 내부(해시) 링크 <br> 
