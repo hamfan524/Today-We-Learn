@@ -13,3 +13,9 @@
 
 
 - [Solid 원칙](./Object-Oriented/Solid.md)
+
+
+## 📌 Data structure
+
+
+- [Array](./Data%20Structure/Array.md)
