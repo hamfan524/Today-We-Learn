@@ -19,3 +19,4 @@
 
 
 - [Array](./Data%20Structure/Array.md)
+- [Stack](./Data%20Structure/Stack.md)
