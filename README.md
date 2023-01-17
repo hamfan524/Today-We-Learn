@@ -24,6 +24,7 @@
 - [Array](./Data%20Structure/Array.md)
 - [Stack](./Data%20Structure/Stack.md)
 - [Queue](./Data%20Structure/Queue.md)
+- [Heap](./Data%20Structure/Heap.md)
 
 ## 📌 Algorithm
 
