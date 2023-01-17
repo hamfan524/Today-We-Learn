@@ -1,5 +1,5 @@
 # Today-We-Learn
-:memo:민욱.동호 스터디모임👨‍💻
+:fire::memo:민욱.동호 스터디모임👨‍💻:fire:
 
 | [<img src="https://user-images.githubusercontent.com/96968834/212670411-13cf791f-4629-46fe-8061-469189bdfbcc.jpg" width="100">](https://github.com/minwoogi)| [<img src="https://user-images.githubusercontent.com/96968834/212670363-ae5dbf8f-dc1a-41b2-a08e-21a6f5f345b1.jpg" width="100">](https://github.com/hamfan524) | 
 | :-----------------------------------: | :---------------------------------------: |
