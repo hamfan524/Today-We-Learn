@@ -31,4 +31,4 @@
 
 
 - [Greedy](./Algorithm/Greedy.md)
-- [선택정렬 (Selection_Sort)](.Algorithm/Selection_Sort.md)
+- [선택정렬 (Selection_Sort)](./Algorithm/Selection_Sort.md)
