@@ -44,13 +44,14 @@ numbers = []
 for _ in range(n):
     numbers.append(int(input()))
 
+# Selection Sort
 for i in range(n):                      
     for j in range(i + 1, n):           
         if numbers[i] > numbers[j]:     
-            change = numbers[i]
-            numbers[i] = numbers[j]
-            numbers[j] = change
-    print(numbers[i])
+            numbers[i], numbers[j] = numbers[j], numbers[i]
+            
+for n in numbers:
+    print(n)
 ```
 
 ## Reference
