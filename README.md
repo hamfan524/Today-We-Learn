@@ -27,6 +27,7 @@
 - [Queue](./Data%20Structure/Queue.md)
 - [Heap](./Data%20Structure/Heap.md)
 - [Linked List](./Data%20Structure/LinkedList.md)
+- [Graph](./Data%20Structure/Graph.md)
 
 ## 📌 Algorithm
 
