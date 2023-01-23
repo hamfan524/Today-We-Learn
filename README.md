@@ -36,3 +36,4 @@
 - [선택정렬 (Selection_Sort)](./Algorithm/Selection_Sort.md)
 - [버블정렬 (Bubble_Sort)](./Algorithm/Bubble_Sort.md)
 - [삽입정렬 (Insertion_Sort)](./Algorithm/Insertion_Sort.md)
+- [병합정렬 (Merge_Sort)](./Algorithm/Merge_Sort.md)
