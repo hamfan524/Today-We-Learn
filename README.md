@@ -38,3 +38,4 @@
 - [삽입정렬 (Insertion_Sort)](./Algorithm/Insertion_Sort.md)
 - [병합정렬 (Merge_Sort)](./Algorithm/Merge_Sort.md)
 - [퀵 정렬 (Quick_Sort)](./Algorithm/Quick_Sort.md)
+- [힙 정렬 (Heap_Sort)](./Algorithm/Heap_Sort.md)
