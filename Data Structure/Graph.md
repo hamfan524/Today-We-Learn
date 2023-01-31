@@ -32,12 +32,41 @@
 
 ## 그래프 종류
 
-1. ```무방향``` 그래프
+1. ```무방향``` 그래프<br>
+무방향 그래프는 두 정점을 연결하는 간선에 방향이 없는 그래프이다.<br>
+<img src=https://user-images.githubusercontent.com/96968834/215669990-ffb215d5-f4d6-4b54-8db4-2a5b95a250a1.png>
+<br><br>
 
-2. ```방향``` 그래프
 
-3. ```가중치``` 그래프
+2. ```방향``` 그래프<br>
+방향 그래프는 두 정점을 연결하는 간선에 방향이 존재하는 그래프이다.<br>
+간선의 방향으로만 이동할 수 있다.<br>
+<img src=https://user-images.githubusercontent.com/96968834/215670237-4528d20b-8aa1-4726-8e85-e1d3fa91edc8.png>
+<br><br>
 
-4. ```완전``` 그래프
+3. ```가중치``` 그래프<br>
+가중치 그래프는 간선에 가중치(비용)가 할당된 그래프로, 두 정점을 이동할 때 비용이 드는 그래프이다.
+<img src=https://user-images.githubusercontent.com/96968834/215670325-cc60e7f9-0d8b-4099-b426-14b06ad1f3c0.png>
+<br><br>
 
-5. ```부분``` 그래프
+4. ```완전``` 그래프<br>
+그래프의 모든 정점이 서로 연결되어 있는 그래프이다. (인접 연결)<br>
+<img width="200" src=https://user-images.githubusercontent.com/96968834/215670406-3aa6c8a6-31b1-4e01-91fb-cfdcbddf0e89.png>
+<br><br>
+
+
+5. ```순환``` 그래프<br>
+단순 경로에서 시작 정점과 도착 정점이 동일한 그래프이다. (A에서 시작-> A에서 끝 가능)<br>
+<img width="200" src=https://user-images.githubusercontent.com/96968834/215670566-f98f3c9b-d189-483f-a2cb-d97088d5ecd1.png>
+
+
+
+6. ```비순환``` 그래프<br>
+사이클 그래프를 제외한 그래프로, 사이클이 없는 그래프이다.<br>
+<img width="200" src=https://user-images.githubusercontent.com/96968834/215670597-f8ea4e89-497c-4e64-94f6-0ef24931516a.png>
+
+
+<br>
+
+## Reference
+- https://hongcoding.tistory.com/78
