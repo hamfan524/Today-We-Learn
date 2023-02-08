@@ -41,3 +41,7 @@
 - [퀵 정렬 (Quick_Sort)](./Algorithm/Quick_Sort.md)
 - [힙 정렬 (Heap_Sort)](./Algorithm/Heap_Sort.md)
 - [이분 탐색 (Binary_Search)](./Algorithm/Binary_Search.md)
+
+
+## 📌 Internet
+- [Internet(인터넷)](./Internet/Internet.md)
