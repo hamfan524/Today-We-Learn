@@ -6,7 +6,6 @@
 
 ## 📌 GIT
 
-
 - [GitHub Fork 협업 - 팀장 가이드](./Git/깃-협업-팀장.md)
 - [GitHub Fork 협업 - 팀원 가이드](./Git/깃-협업-팀원.md)
 - [Git Commit Convention](./Git/커밋컨벤션.md)
@@ -19,16 +18,19 @@
 - [Solid 원칙](./Object-Oriented/Solid.md)
 
 
+## 📌 Computer Science
 
-## 📌 Data structure
+- ### Data structure
+    - [Array](./Computer%20Science/Data%20Structure/Array.md)
+    - [Stack](./Computer%20Science/Data%20Structure/Stack.md)
+    - [Queue](./Computer%20Science/Data%20Structure/Queue.md)
+    - [Heap](./Computer%20Science/Data%20Structure/Heap.md)
+    - [Linked List](./Computer%20Science/Data%20Structure/LinkedList.md)
+    - [Graph](./Computer%20Science/Data%20Structure/Graph.md)
 
+- ### Network
+    - [OSI 7 계층](./Computer%20Science/Network/OSI_7_Layer.md)
 
-- [Array](./Data%20Structure/Array.md)
-- [Stack](./Data%20Structure/Stack.md)
-- [Queue](./Data%20Structure/Queue.md)
-- [Heap](./Data%20Structure/Heap.md)
-- [Linked List](./Data%20Structure/LinkedList.md)
-- [Graph](./Data%20Structure/Graph.md)
 
 ## 📌 Algorithm
 
@@ -44,4 +46,5 @@
 
 
 ## 📌 Internet
+
 - [Internet(인터넷)](./Internet/Internet.md)
