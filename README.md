@@ -12,12 +12,6 @@
 - [Git Flow](./Git/Git-Flow.md)
 - [MarkDown Syntax](./Git/MarkDown.md)
 
-## 📌 Object-Oriented
-
-- [객체 지향 프로그래밍(OOP)](./Object-Oriented/OOP.md)
-- [Solid 원칙](./Object-Oriented/Solid.md)
-
-
 ## 📌 Computer Science
 
 - ### Data structure
@@ -30,6 +24,7 @@
 
 - ### Network
     - [OSI 7 계층](./Computer%20Science/Network/OSI_7_Layer.md)
+    - [Internet(인터넷)](./Computer%20Science/Network/Internet.md)
 
 
 ## 📌 Algorithm
@@ -44,7 +39,7 @@
 - [힙 정렬 (Heap_Sort)](./Algorithm/Heap_Sort.md)
 - [이분 탐색 (Binary_Search)](./Algorithm/Binary_Search.md)
 
+## 📌 Object-Oriented
 
-## 📌 Internet
-
-- [Internet(인터넷)](./Internet/Internet.md)
+- [객체 지향 프로그래밍(OOP)](./Object-Oriented/OOP.md)
+- [Solid 원칙](./Object-Oriented/Solid.md)
