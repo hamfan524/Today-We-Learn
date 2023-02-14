@@ -22,6 +22,9 @@
     - [Linked List](./Computer%20Science/Data%20Structure/LinkedList.md)
     - [Graph](./Computer%20Science/Data%20Structure/Graph.md)
 
+- ### DataBase
+    - [키(Key) 종류 정리](./Computer%20Science/DataBase/DB_Key.md)
+
 - ### Network
     - [OSI 7 계층](./Computer%20Science/Network/OSI_7_Layer.md)
     - [Internet(인터넷)](./Computer%20Science/Network/Internet.md)
