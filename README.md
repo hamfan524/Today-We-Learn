@@ -33,7 +33,6 @@
 
 ## 📌 Algorithm
 
-
 - [Greedy](./Algorithm/Greedy.md)
 - [선택정렬 (Selection_Sort)](./Algorithm/Selection_Sort.md)
 - [버블정렬 (Bubble_Sort)](./Algorithm/Bubble_Sort.md)
@@ -42,6 +41,7 @@
 - [퀵 정렬 (Quick_Sort)](./Algorithm/Quick_Sort.md)
 - [힙 정렬 (Heap_Sort)](./Algorithm/Heap_Sort.md)
 - [이분 탐색 (Binary_Search)](./Algorithm/Binary_Search.md)
+- [DFS & BFS](./Algorithm/DFS%26BFS.md)
 
 ## 📌 Object-Oriented
 
