@@ -29,6 +29,7 @@
 - ### Network
     - [OSI 7 계층](./Computer%20Science/Network/OSI_7_Layer.md)
     - [Internet(인터넷)](./Computer%20Science/Network/Internet.md)
+    - [DNS(도메인 네임 시스템)](./Computer%20Science/Network/DNS.md)
 
 
 ## 📌 Algorithm
