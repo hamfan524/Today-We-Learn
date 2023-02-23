@@ -31,6 +31,7 @@
     - [Internet(인터넷)](./Computer%20Science/Network/Internet.md)
     - [DNS(도메인 네임 시스템)](./Computer%20Science/Network/DNS.md)
     - [HTTP](./Computer%20Science/Network/HTTP.md)
+    - [Hosting(호스팅)](./Computer%20Science/Network/Hosting.md)
 
 
 ## 📌 Algorithm
