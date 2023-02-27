@@ -45,7 +45,7 @@
 - [힙 정렬 (Heap_Sort)](./Algorithm/Heap_Sort.md)
 - [이분 탐색 (Binary_Search)](./Algorithm/Binary_Search.md)
 - [DFS & BFS](./Algorithm/DFS%26BFS.md)
-
+- [동적계획법 (Dynamic_Programming)](./Algorithm/Dynamic_Programming.md)
 ## 📌 Object-Oriented
 
 - [객체 지향 프로그래밍(OOP)](./Object-Oriented/OOP.md)
