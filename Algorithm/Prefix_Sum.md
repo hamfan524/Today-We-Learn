@@ -24,6 +24,6 @@ sum = [2 , 7 , 8 , 12 , 15 , 17]
 
 이러한 점을 보완하기 위해서 누적합 수열 sum을 도입한다.
 <br><br>
-:exclmation: sum[R]는 arr[0]부터 arr[R]까지의 모든 원소의 합을 값으로 갖는다. 또한 arr[L]부터 arr[R]까지의 부분합은 sum[R] - sum_list[L-1]로 정의할 수 있다.
+:exclamation: sum[R]는 arr[0]부터 arr[R]까지의 모든 원소의 합을 값으로 갖는다. 또한 arr[L]부터 arr[R]까지의 부분합은 sum[R] - sum_list[L-1]로 정의할 수 있다.
 
 <img src=https://user-images.githubusercontent.com/96968834/226092240-b5d13b83-4e56-4acb-9ebc-363b4f3b952d.JPG>
