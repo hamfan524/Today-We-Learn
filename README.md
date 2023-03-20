@@ -33,7 +33,7 @@
     - [DNS(도메인 네임 시스템)](./Computer%20Science/Network/DNS.md)
     - [HTTP](./Computer%20Science/Network/HTTP.md)
     - [Hosting(호스팅)](./Computer%20Science/Network/Hosting.md)
-
+    - [3-way / 4-way Handshake](./Computer%20Science/Network/TCP_Connection_Termination.md)
 - ### Operating System
     - [운영체제](./Computer%20Science/Operating%20System/Operating_System.md)
     - [프로세스와 스레드](./Computer%20Science/Operating%20System/Process_Thread.md)
