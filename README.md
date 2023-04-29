@@ -38,6 +38,7 @@
     - [운영체제](./Computer%20Science/Operating%20System/Operating_System.md)
     - [프로세스와 스레드](./Computer%20Science/Operating%20System/Process_Thread.md)
     - [운영체제 기본 명령어](./Computer%20Science/Operating%20System/Command.md)
+    - [프로세스 상태](./Computer%20Science/Operating%20System/Process_State.md)
 
 ## 📌 Algorithm
 
@@ -50,6 +51,7 @@
 - [힙 정렬 (Heap_Sort)](./Algorithm/Heap_Sort.md)
 - [이분 탐색 (Binary_Search)](./Algorithm/Binary_Search.md)
 - [DFS & BFS](./Algorithm/DFS%26BFS.md)
+- [백트래킹 (Backtracking)](./Algorithm/Backtracking.md)
 - [동적계획법 (Dynamic_Programming)](./Algorithm/Dynamic_Programming.md)
 - [누적합 (Prefix_Sum)](./Algorithm/Prefix_Sum.md)
 - [최단거리검색 (Dijkstra)](./Algorithm/Dijkstra.md)
