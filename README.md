@@ -36,6 +36,7 @@
     - [3-way / 4-way Handshake](./Computer%20Science/Network/TCP_Connection_Termination.md)
 - ### Operating System
     - [운영체제](./Computer%20Science/Operating%20System/Operating_System.md)
+    - [커널과 인터페이스](./Computer%20Science/Operating%20System/Kernel_Interface.md)
     - [프로세스와 스레드](./Computer%20Science/Operating%20System/Process_Thread.md)
     - [운영체제 기본 명령어](./Computer%20Science/Operating%20System/Command.md)
     - [프로세스 상태](./Computer%20Science/Operating%20System/Process_State.md)
