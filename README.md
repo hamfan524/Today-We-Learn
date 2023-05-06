@@ -40,6 +40,7 @@
     - [프로세스와 스레드](./Computer%20Science/Operating%20System/Process_Thread.md)
     - [운영체제 기본 명령어](./Computer%20Science/Operating%20System/Command.md)
     - [프로세스 상태](./Computer%20Science/Operating%20System/Process_State.md)
+    - [CPU 스케줄링 알고리즘](./Computer%20Science/Operating%20System/SchedulingAlgorithms.md)
 
 ## 📌 Algorithm
 
