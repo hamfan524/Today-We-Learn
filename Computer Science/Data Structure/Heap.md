@@ -18,11 +18,24 @@
 ```
 우선순위의 개념을 큐에 도입한 자료구조
 데이터들이 우선순위를 가지고 있어 우선순위가 높은 데이터가 먼저 나간다
+내부구조가 힙으로 구성되어 있기에 시간 복잡도는 O(NLogN)이다
 ```
 
 ### **우선순위 큐 구현** 
 ```
 우선순위 큐는 배열, 연결리스트, 힙 으로 구현이 가능하다. 이 중에서 힙(heap)으로 구현하는 것이 가장 효율적이다.
+```
+
+### **우선순위 큐 사용법**
+```java
+import java.util.PriorityQueue; //import
+
+//int형 priorityQueue 선언 (우선순위가 낮은 숫자 순)
+PriorityQueue<Integer> priorityQueue = new PriorityQueue<>();
+
+//int형 priorityQueue 선언 (우선순위가 높은 숫자 순)
+PriorityQueue<Integer> priorityQueue = new PriorityQueue<>(Collections.reverseOrder());
+
 ```
 
 <br>

@@ -18,7 +18,7 @@
     - [Array](./Computer%20Science/Data%20Structure/Array.md)
     - [Stack](./Computer%20Science/Data%20Structure/Stack.md)
     - [Queue](./Computer%20Science/Data%20Structure/Queue.md)
-    - [Heap](./Computer%20Science/Data%20Structure/Heap.md)
+    - [Heap & Priority Queue](./Computer%20Science/Data%20Structure/Heap.md)
     - [Linked List](./Computer%20Science/Data%20Structure/LinkedList.md)
     - [Graph](./Computer%20Science/Data%20Structure/Graph.md)
 
