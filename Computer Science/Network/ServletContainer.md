@@ -16,7 +16,7 @@
 ```
 <br>
 
-![Untitled](JspReport%20%E1%84%8E%E1%85%AE%E1%84%86%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%AE%E1%86%A8%208fc8ec73647e4b5f87d354e325df2832/Untitled.png)
+<img src="https://github.com/minwoogi/S-DES-simulator/assets/96968834/942f46d0-a914-4ab5-ae9a-6b32a50d8746">
 
 
 <br><br>
@@ -57,4 +57,4 @@
 5. 컨테이너가 서블릿의 service() 메소드를 호출하여 HTTP 요청을 처리한다.(요청의 데이터를 읽고, 응답을 만들어낸다)서블릿은 컨테이너 주소에 남아있고, 다른 HTTP 요청들을 처리할 수 있습니다.
 6. 웹서버는 동적으로 생성된 결과를 올바른 위치에 반환한다.
 
-![Untitled](JspReport%20%E1%84%8E%E1%85%AE%E1%84%86%E1%85%B5%E1%86%AB%E1%84%8B%E1%85%AE%E1%86%A8%208fc8ec73647e4b5f87d354e325df2832/Untitled%201.png)
+<img width=500 src="https://github.com/minwoogi/S-DES-simulator/assets/96968834/7d409b6b-46ed-4392-ad83-cc4cc57fadc7">
