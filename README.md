@@ -26,6 +26,7 @@
     - [키(Key) 종류 정리](./Computer%20Science/DataBase/DB_Key.md)
     - [정규화(Normalization)](./Computer%20Science/DataBase/Normalization.md)
     - [관계형 데이터베이스(RDBMS)](./Computer%20Science/DataBase/RDBMS.md)
+    - [이상현상(Anomaly)](./Computer%20Science/DataBase/Anomaly.md)
 
 - ### Network
     - [OSI 7 계층](./Computer%20Science/Network/OSI_7_Layer.md)
